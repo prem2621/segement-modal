@@ -74,30 +74,7 @@ The project implements a clean, functional, and responsive **Segment Creation Mo
 | **HTML5 & CSS3** | Layout and styling |
 | **Fetch API** | Data submission to webhook |
 | **GitHub Pages** | Project deployment |
-
----
-
-## 🧱 Project Structure
-
-segement-modal/
-│
-├── public/
-│ └── index.html
-│
-├── src/
-│ ├── App.jsx
-│ ├── main.jsx
-│ ├── segement/
-│ │ ├── Segement.jsx # Main modal component (SegmentModal)
-│ │ ├── SchemaRow.jsx # Row component for schema dropdown
-│ │ ├── Segement.css # External CSS styling
-│
-├── package.json
-├── vite.config.js
-├── .gitignore
-└── README.md
  
-
 ---
 
 ## 🚀 Deployment (GitHub Pages)
