@@ -97,7 +97,18 @@ segement-modal/
 ├── .gitignore
 └── README.md
  
+
 ---
+
+## 🚀 Deployment (GitHub Pages)
+
+This project was deployed using **Vite + gh-pages** package.
+
+**Build and deploy commands:**
+```bash
+npm run build
+npm run deploy
+
 
 ## ⚙️ How It Works (Step-by-Step)
 
